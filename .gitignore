@@ -1,0 +1,8 @@
+./idea/*
+__pycache__/*
+*.log
+*.aux
+*.fdb_latexmmk
+*.fls
+*.out
+*.synctex.gz

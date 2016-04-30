@@ -1,0 +1,3 @@
+min ***lambda=136*** w/ Average RSS of ***7.84721463175e+13*** [20, 200]
+min ***lambda=106*** w/ Average RSS of ***7.84705412886e+13*** [-10,5000]
+min ***lambda=49*** w/ Average RSS of ***7.84853046491e+13*** [-10, 50]
